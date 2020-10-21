@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\desktop\ms_project\wc_p\wc_p\source.cpp(16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\ms_project\wc_p\wc_p\source.cpp(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  WC_P.vcxproj -> C:\Users\User\Desktop\MS_Project\WC_P\x64\Debug\WC_P.exe
